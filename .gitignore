@@ -5,3 +5,5 @@ Debug
 Release
 TestResult.xml
 output
+.svn/
+/bin/
